@@ -1,5 +1,8 @@
 # E-Commerce Backend
 
+https://watch.screencastify.com/v/3wZNKTDx0R2ijwINwN5L
+https://watch.screencastify.com/v/qgIUrllvsmT8PYnepxNU
+
 ## Description
     This application helps internet retailers with their business. This project sets up the backend for their website so they can change their products. 
 
